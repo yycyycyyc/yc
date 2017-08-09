@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.reg{
+    width: 1000px;
+    height: 500px;
+    background: url("../img/1212.png")no-repeat;
+
+}
